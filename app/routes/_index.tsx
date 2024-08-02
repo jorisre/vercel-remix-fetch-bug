@@ -20,7 +20,7 @@ export default function Index() {
             href="https://remix.run/start/quickstart"
             rel="noreferrer"
           >
-            5m Quick Start
+            5mQuick Start
           </a>
         </li>
         <li>
